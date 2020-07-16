@@ -6,7 +6,7 @@ About Me:
 - 🌱 I’m currently learning Machine Learning
 - 👬 I’m looking to collaborate on IoT
 - 🤔 I’m looking for help with Ideas for my YouTube Channel
-- 💬 Ask me about Azure, AWS, IoT, Marklogic, Python, ReactJS, NodeJS and anything related
+- 💬 Ask me about Azure, AWS, IoT, Marklogic, Python, ReactJS, NodeJS, DialogFlow and anything related
 - 📫 Social Media:
   - Email: [jatindera@gmail.com](jatindera@gmail.com)
   - Twitter: [@techtutorials21](https://twitter.com/techtutorials21)
