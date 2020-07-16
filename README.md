@@ -13,3 +13,11 @@ About Me:
   - YouTube: [Tech Tutorials](https://www.youtube.com/channel/UCOkal6HF1n5BUh9caoSAktQ)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ¯\\\_(ツ)_/¯
+- 📜 Certifications:
+  - Azure Solutions Architect Expert
+  - Machine Learning Specialization from IIT Roorkee
+  - Certified ScrumMaster (CSM)
+  - PMP
+  - Six Sigma Green Belt
+  - Sun Certified Web Component Developer (SCWCD)
+  - Sun Certified Java Programmer (SCJP)
