@@ -1,23 +1,25 @@
 ### Hi there, I'm Jatinder Arora 👋
+<a href="https://github.com/techtutorials">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=techtutorials&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtutorials&hide=jupyter%20notebook&theme=dark"/>
+</a>
+---
 
-About Me:
+#### Following is my cup of tea
+- Azure
+- AWS
+- DataBricks
+- Python
+- React
+- NodeJS
+- IoT
+- Edge Computing
+- Docker
+- Java/J2EE
 
-- 🔭 I’m currently working on Azure, AWS, NodeJS, ReactJS and Marklogic
-- 🌱 I’m currently learning Machine Learning
-- 👬 I’m looking to collaborate on IoT
-- 🤔 I’m looking for help with Ideas for my YouTube Channel
-- 💬 Ask me about Azure, AWS, IoT, Marklogic, Python, ReactJS, NodeJS, DialogFlow and anything related
-- 📫 Social Media:
-  - Email: [jatindera@gmail.com](jatindera@gmail.com)
-  - Twitter: [@techtutorials21](https://twitter.com/techtutorials21)
-  - YouTube: [Tech Tutorials](https://www.youtube.com/channel/UCOkal6HF1n5BUh9caoSAktQ)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ¯\\\_(ツ)_/¯
-- 📜 Certifications:
-  - Azure Solutions Architect Expert
-  - Machine Learning Specialization from IIT Roorkee
-  - Certified ScrumMaster (CSM)
-  - PMP
-  - Six Sigma Green Belt
-  - Sun Certified Web Component Developer (SCWCD)
-  - Sun Certified Java Programmer (SCJP)
+#### My Achievements
+- Microsoft Certified: Azure Solutions Architect Expert
+- Docker Essentials: A Developer Introduction (cognitiveclass.ai)
+- PMP Certified 
+- Sun Certified Java Programmer
+- Sun Certified Web Component Developer
