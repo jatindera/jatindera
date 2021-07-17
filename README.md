@@ -1,7 +1,7 @@
 ### Hi there, I'm Jatinder Arora 👋
 <a href="https://github.com/techtutorials">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=techtutorials&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtutorials&hide=jupyter%20notebook&theme=dark&hide=html,jupyter%20notebook"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtutorials&theme=dark&hide=html,jupyter%20notebook"/>
 </a>
 
 ---
