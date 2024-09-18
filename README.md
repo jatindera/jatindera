@@ -11,12 +11,13 @@
 - AWS
 - DataBricks
 - Python
+- Langchain
+- LLM
 - React
 - NodeJS
 - IoT
 - Edge Computing
 - Docker
-- Java/J2EE
 
 #### My Achievements
 - Microsoft Certified: Azure Solutions Architect Expert
